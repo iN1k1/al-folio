@@ -1,14 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - iN1k1
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - iN1k1/lightning-project-skeleton
+  - iN1k1/ce-vae-underwater-image-enhancement
